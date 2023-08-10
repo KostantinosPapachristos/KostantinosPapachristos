@@ -24,9 +24,11 @@ Welcome to my GitHub repository! I'm thrilled to have you here as we embark on a
 
 Here are the programming languages I frequently work with:
 
-- 🚀 [Language 1]: [Brief description or project related to Language 1]
-- 🌟 [Language 2]: [Brief description or project related to Language 2]
-- 💡 [Language 3]: [Brief description or project related to Language 3]
+| Language       | Description/Projects                           |
+|----------------|-----------------------------------------------|
+| 🚀 [Language 1] | Brief description or project related to Language 1 |
+| 🌟 [Language 2] | Brief description or project related to Language 2 |
+| 💡 [Language 3] | Brief description or project related to Language 3 |
 
 These languages are the building blocks of many of my projects, and I'm always excited to explore their capabilities further. Feel free to check out some of my projects to see these languages in action!
 
