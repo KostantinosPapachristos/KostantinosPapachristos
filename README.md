@@ -24,11 +24,11 @@ Welcome to my GitHub repository! I'm thrilled to have you here as we embark on a
 
 Here are some statistics about my GitHub activity and my most used languages:
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=KonstantinosPapachristos&show_icons=true)
 
 **My Most Used Languages:**
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsername&layout=compact)](https://github.com/YourUsername)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KonstantinosPapachristos&layout=compact)](https://github.com/YourUsername)
 
 These statistics reflect my current GitHub activity and the languages I'm frequently working with. Feel free to explore my repositories to see these languages in action!
 
