@@ -20,14 +20,16 @@ Welcome to my GitHub repository! I'm thrilled to have you here as we embark on a
 - A dedication to writing clean, efficient, and maintainable code.
 - An enthusiasm for keeping up with the latest industry trends.
 
-## 📚 What's Currently on My Radar
+## 📚 My Most Used Languages
 
-I'm currently diving into:
-- [Technology or Framework]
-- [Project or Course]
-- [Concept or Skill]
+Here are the programming languages I frequently work with:
 
-Stay tuned as I explore these exciting areas and turn insights into projects!
+- 🚀 [Language 1]: [Brief description or project related to Language 1]
+- 🌟 [Language 2]: [Brief description or project related to Language 2]
+- 💡 [Language 3]: [Brief description or project related to Language 3]
+
+These languages are the building blocks of many of my projects, and I'm always excited to explore their capabilities further. Feel free to check out some of my projects to see these languages in action!
+
 
 ## 📫 Let's Connect!
 
