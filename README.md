@@ -22,15 +22,16 @@ Welcome to my GitHub repository! I'm thrilled to have you here as we embark on a
 
 ## 📚 My Most Used Languages
 
-Here are the programming languages I frequently work with:
+Here are some statistics about my GitHub activity and my most used languages:
 
-| Language       | Description/Projects                           |
-|----------------|-----------------------------------------------|
-| 🚀 [Language 1] | Brief description or project related to Language 1 |
-| 🌟 [Language 2] | Brief description or project related to Language 2 |
-| 💡 [Language 3] | Brief description or project related to Language 3 |
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true)
 
-These languages are the building blocks of many of my projects, and I'm always excited to explore their capabilities further. Feel free to check out some of my projects to see these languages in action!
+**My Most Used Languages:**
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsername&layout=compact)](https://github.com/YourUsername)
+
+These statistics reflect my current GitHub activity and the languages I'm frequently working with. Feel free to explore my repositories to see these languages in action!
+
 
 
 ## 📫 Let's Connect!
