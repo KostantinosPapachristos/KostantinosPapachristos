@@ -22,12 +22,6 @@ Welcome to my GitHub repository! I'm thrilled to have you here as we embark on a
 
 ## 📚 My Most Used Languages
 
-Here are some statistics about my GitHub activity and my most used languages:
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=KostantinosPapachristos&show_icons=true)
-
-**My Most Used Languages:**
-
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KostantinosPapachristos&layout=compact)](https://github.com/KostantinosPapachristos)
 
 These statistics reflect my current GitHub activity and the languages I'm frequently working with. Feel free to explore my repositories to see these languages in action!
