@@ -40,5 +40,3 @@ I'm always excited to connect with fellow developers, enthusiasts, and tech afic
 
 - 📧 Email: kostass.papachristoss@gmail.com
 - 💼 LinkedIn: Konstantinos Papachristos (https://www.linkedin.com/in/konstantinos-papachristos-5905ab254/)
-
-> "The only way to do great work is to love what you do." - Steve Jobs
